@@ -1,0 +1,25 @@
+Gradle
+.gradle
+/build
+local.properties
+.DS_Store
+
+Android Studio
+.idea
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+Gradle generated files
+gradle-wrapper.properties
+gradlew
+gradlew.bat
+/gradle/wrapper
+
+Local user configurations
+.vscode/
+
+Add specific keys or secrets if you had them, but for this project, the above is enough.
+Firebase local data (if any)
+/app/.google/
